@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather-426</string>
+    <string name="rc_strTitle">RecyclerView List Example 04</string>
+</resources>
